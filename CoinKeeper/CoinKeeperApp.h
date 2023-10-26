@@ -1,0 +1,14 @@
+﻿#pragma once
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <map>
+#include <Windows.h>
+#include <numeric>
+#include <fstream>
+#include <sstream>
+#include <iomanip>
+#include "Cin_check.h"
+#include "Authorization.h"
+#include "CoinKeeper.h"

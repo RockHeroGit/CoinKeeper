@@ -1,0 +1,49 @@
+Revision: 1e9828ba086f74efedd37c1ac444ada22952ba4d
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 16.01.2022 20:01:07
+Message:
+CoinKepper  pre-reliz
+
+----
+Added: CoinKeeper.sln
+Added: CoinKeeper/Authorization.cpp
+Added: CoinKeeper/Authorization.h
+Added: CoinKeeper/Cin_check.h
+Added: CoinKeeper/CoinKeeper.cpp
+Added: CoinKeeper/CoinKeeper.h
+Added: CoinKeeper/CoinKeeper.vcxproj
+Added: CoinKeeper/CoinKeeper.vcxproj.filters
+Added: CoinKeeper/CoinKeeper.vcxproj.user
+Added: CoinKeeper/CoinKeeperApp.h
+Added: CoinKeeper/Debug/Authorization.obj
+Added: CoinKeeper/Debug/CoinKeeper.Build.CppClean.log
+Added: CoinKeeper/Debug/CoinKeeper.exe.recipe
+Added: CoinKeeper/Debug/CoinKeeper.ilk
+Added: CoinKeeper/Debug/CoinKeeper.log
+Added: CoinKeeper/Debug/CoinKeeper.obj
+Added: CoinKeeper/Debug/CoinKeeper.tlog/CL.command.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.tlog/CL.read.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.tlog/CL.write.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.tlog/CoinKeeper.lastbuildstate
+Added: CoinKeeper/Debug/CoinKeeper.tlog/link.command.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.tlog/link.read.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.tlog/link.write.1.tlog
+Added: CoinKeeper/Debug/CoinKeeper.vcxproj.FileListAbsolute.txt
+Added: CoinKeeper/Debug/Source.obj
+Added: CoinKeeper/Debug/source.obj.enc
+Added: CoinKeeper/Debug/vc142.idb
+Added: CoinKeeper/Debug/vc142.pdb
+Added: CoinKeeper/Source.cpp
+Added: Debug/CoinKeeper.exe
+Added: Debug/CoinKeeper.ilk
+Added: Debug/CoinKeeper.pdb
+
+Revision: d59282744d19126da6287e0f110dd6d271eb538b
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 16.01.2022 19:59:22
+Message:
+Initial commit
+
+----
+Added: .gitattributes
+
